@@ -1,0 +1,29 @@
+.items{
+    font-family: 'Open Sans', sans-serif;
+    color: #263238;
+}
+#botonborrar{
+    background-color: #cfd8dc;
+    border: none;
+    margin: 4px;
+}
+#botonver{
+    background-color: #cfd8dc;
+    border: none;
+    margin: 4px;
+}
+#tachito{
+    width: 25px;
+}
+#lupita{
+    width: 25px;
+}
+
+@media (min-width: 1024px) {
+#lupita{
+    width: 5vh;
+}
+#tachito{
+    width: 5vh;
+}
+}

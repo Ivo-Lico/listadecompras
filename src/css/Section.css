@@ -1,0 +1,95 @@
+#contenedor{
+    height: 50vh;
+    width: 100%;
+    background-color: #cfd8dc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Open Sans', sans-serif;
+    flex-direction: column;
+}
+
+#contenedor img{
+    width: 50px;
+    padding: 12px;
+}
+#contenedorlistas{
+    display: flex;
+    flex-direction: column;
+}
+#elemento{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    border-bottom: solid 1px #263238;
+    font-family: 'Open Sans', sans-serif;
+    color: #263238;
+}
+
+#contenedormenu{
+    height: 50vh;
+    width: 100%;
+    background-color: #cfd8dc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Open Sans', sans-serif;
+    flex-direction: column;
+}
+#contenedormenu img{
+    width: 12vh;
+    opacity: 50%;
+}
+#contenedormenu h4{
+    font-size: 24px;
+    color: #263238;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 3vh;
+}
+#h4guardada{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#contenedorbotones{
+    display: flex;
+}
+#h4uno{
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+    color: #263238;
+    padding: 2vh;
+    font-size: 2vh;
+}
+#h4dos{
+    font-family: 'Open Sans', sans-serif;
+    color: #263238;
+    font-size: 2vh;
+}
+#si{
+    background-color: #607d8b;
+    border: none;
+    color: #263238;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    border-radius: 4px;
+    padding: 1vh;
+    font-size: 2vh;
+}
+#no{
+    background-color: #263238;
+    border: none;
+    color: #eceff1;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    border-radius: 4px;
+    padding: 1vh;
+    font-size: 2vh;
+}
+

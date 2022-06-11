@@ -1,0 +1,12 @@
+#App{
+    background-color: #cfd8dc;
+    height: 100vh;
+}
+@media (max-width: 600px) {
+    #header h2{
+        font-size: 4vw;
+    }
+    ul li div{
+        font-size: 4vw;
+    }
+}

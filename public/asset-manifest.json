@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fb73eacc.css",
+    "main.js": "/static/js/main.f9f9e768.js",
+    "static/media/Verduras.png": "/static/media/Verduras.d837ca91bf04fb72d618.png",
+    "static/media/Frutas.png": "/static/media/Frutas.68327c7a3f3dc5ad759f.png",
+    "static/media/Lacteos.png": "/static/media/Lacteos.018b046a8df84ddee637.png",
+    "static/media/Cereales.png": "/static/media/Cereales.051d354f7b02e4997e0e.png",
+    "static/media/Bebidas.png": "/static/media/Bebidas.d7d61428352df2bcc73c.png",
+    "static/media/Lupita.png": "/static/media/Lupita.1d92f967297920015306.png",
+    "index.html": "/index.html",
+    "main.fb73eacc.css.map": "/static/css/main.fb73eacc.css.map",
+    "main.f9f9e768.js.map": "/static/js/main.f9f9e768.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb73eacc.css",
+    "static/js/main.f9f9e768.js"
+  ]
+}

@@ -1,0 +1,54 @@
+#f1{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 4vh;
+}
+#f1 h2{
+    margin: 0px;
+    color: #263238;
+    font-family:'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 12vh;
+    padding-right: 8vh;
+}
+#f2{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 4vh;
+}
+#f2 h2{
+    margin: 0px;
+    color: #263238;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 12vh;
+}
+#botonguardar{
+    background-color: #263238;
+    border: none;
+    border-radius: 4px;
+    color: #eceff1;
+    margin: 4px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    padding: 2vh;
+    font-size: 2vh;
+}
+#contenedorflex{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 45rem;
+}
+#contenedorbotonflex{
+    display: flex;
+    align-items: center;
+    width: 45rem;
+    justify-content: flex-end;
+}
